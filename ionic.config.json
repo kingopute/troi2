@@ -1,0 +1,7 @@
+{
+  "name": "troi",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
